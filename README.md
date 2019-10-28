@@ -12,7 +12,7 @@ If you would like to submit an issue to this repo, please contact the Digital Te
 
 ### How does it work?
 
-Issues submitted to this repo will be triaged and placed into a backlog to be addressed when priorities and resources allow.
+[Issues submitted to this repo](https://github.com/unimelb/design-system-issues/issues) will be triaged and placed into a backlog to be addressed when priorities and resources allow.
 
 ### Where is the code kept?
 
