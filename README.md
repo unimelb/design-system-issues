@@ -6,7 +6,7 @@ This repo has been created to allow users to submit bugs, issues and feature req
 
 ## Access
 
-If you would like to submit an issue to this repo, please contact the Digital Team and provide your GitHub username. You will then be added to the contributor group and be able to submit issues directly.
+If you would like to submit an issue to this repo, please [contact the Digital Team](mailto:digital-team@unimelb.edu.au) and provide your GitHub username. You will then be added to the contributor group and be able to submit issues directly.
 
 ## FAQs
 
